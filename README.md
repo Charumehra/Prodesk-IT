@@ -26,7 +26,12 @@ The objective was to build a fully responsive and modern landing page for a fict
 
 ---
 
-## 📸 Screenshot
+## 📸 Display Layout Screenshot
 
 ![Project Screenshot](https://github.com/Charumehra/Prodesk-IT/blob/main/Display_Screenshot.png?raw=true)
+
+
+## 📱 Mobile Layout Screenshot
+
+![Mobile Layout](https://github.com/Charumehra/Prodesk-IT/blob/main/Mobile_Screenshot.png?raw=true)
 
