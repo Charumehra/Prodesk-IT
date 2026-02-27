@@ -26,4 +26,5 @@ The objective was to build a fully responsive and modern landing page for a fict
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
+![Screenshot](https://your-image-link.com/image.png))
